@@ -7,5 +7,7 @@ On the TR6S you should set 'Utility > Sw: Off' and 'Utility > Kit Control: Patte
 
 # See also
 https://das.nasophon.de/mididings/
+
 http://dsacre.github.io/mididings/doc/
+
 https://static.roland.com/assets/media/pdf/TR-6S_MIDIImpleChart_eng01_W.pdf
